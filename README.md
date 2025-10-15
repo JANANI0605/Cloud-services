@@ -1,10 +1,7 @@
-
-```
 # 🌐 Service Integration Projects (Beginner Friendly)
 
 This repository contains **beginner-friendly integration projects** demonstrating how to connect and use popular cloud-based services in web and app development.  
 Each project focuses on integrating one service step-by-step with clear examples and minimal setup.
----
 
 ## 📁 Included Integrations
 
@@ -14,9 +11,6 @@ Each project focuses on integrating one service step-by-step with clear examples
 | **Dropbox API** | File upload and access using Dropbox SDK and access tokens. |
 | **Firebase** | Firebase  Hosting integration. |
 | **MongoDB Atlas** | Cloud-based MongoDB setup and connection using Node.js and Express. |
-
----
-
 
 
 ## ⚙️ Prerequisites
@@ -29,8 +23,6 @@ Before running any project, ensure you have the following installed:
  Web browser (Chrome/Edge/Firefox) 
 
 > ⚠️ Some projects may require API keys or service credentials 
-
----
 
 ## 🚀 Getting Started
 
