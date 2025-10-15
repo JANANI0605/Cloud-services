@@ -74,6 +74,3 @@ Then open the displayed local URL (usually `http://localhost:3000` or `http://lo
 ## 👨‍💻 Author
 
 Beginner-friendly integrations for learning cloud & API-based app development.
-
-That would make your GitHub repo more organized and professional.
-```
